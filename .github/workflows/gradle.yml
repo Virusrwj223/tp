@@ -13,7 +13,7 @@ jobs:
       - name: Set up JavaFX headless mode (Linux/macOS)
         if: runner.os != 'Windows'
         run: |
-          export _JAVA_OPTIONS="-Djava.awt.headless=true"
+          export _JAVA_OPTIONS="-Djava.awt.headless=true -Dtestfx.headless=true -Dprism.order=sw -Dprism.text=t2k"
 
       - name: Set up JavaFX headless mode (Windows)
         if: runner.os == 'Windows'
