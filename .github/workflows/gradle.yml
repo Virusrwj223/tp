@@ -13,12 +13,12 @@ jobs:
       - name: Set up JavaFX headless mode (Linux/macOS)
         if: runner.os != 'Windows'
         run: |
-          export _JAVA_OPTIONS="-Djava.awt.headless=true -Dtestfx.headless=true -Dprism.order=sw -Dprism.text=t2k"
+          export _JAVA_OPTIONS="-Djava.awt.headless=true"
 
       - name: Set up JavaFX headless mode (Windows)
         if: runner.os == 'Windows'
         run: |
-          set _JAVA_OPTIONS=-Djava.awt.headless=true -Dtestfx.headless=true -Dprism.order=sw -Dprism.text=t2k
+          set _JAVA_OPTIONS=-Djava.awt.headless=true
 
       - name: Set up repository
         uses: actions/checkout@main
