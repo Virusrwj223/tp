@@ -324,9 +324,9 @@ Extensions:
     * 1a2. Real estate agent enters new data.
 
     * Steps 1a1-1a2 are repeated until the data entered are correct.
-        
-        Use case ends.
     
+        Use case ends.
+
 
 **Use case: UC2 - Delete Client**
 
@@ -339,7 +339,7 @@ Extensions:
 
 * 1a. ClientGrid detects an error in the phone number format provided by the real estate agent .
 
-   * 1a1. ClientGrid requests for the correct data 
+   * 1a1. ClientGrid requests for the correct data
 
    * 1a2. Real estate agent enters new data
 

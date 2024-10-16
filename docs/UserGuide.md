@@ -110,7 +110,7 @@ Format: `edit INDEX [n/NAME] [p/PHONE] [e/EMAIL] [a/ADDRESS] [t/TAG]…​`
 * You can remove all the person’s tags by typing `t/` without
     specifying any tags after it.
 
-Examples:  
+Examples:
 *  `edit 1 p/91234567 e/johndoe@example.com` Edits the phone number and email address of the 1st person to be `91234567` and `johndoe@example.com` respectively.
 *  `edit 2 n/Betsy Crower t/` Edits the name of the 2nd person to be `Betsy Crower` and clears all existing tags.
 
@@ -139,7 +139,7 @@ Shows a list of all existing properties, sellers, buyers, or clients in the addr
 
 Format: `list k/KEY`
 
-* The `list` command displays records based on the specified `KEY`. 
+* The `list` command displays records based on the specified `KEY`.
 * The `KEY` must be one of the following: `properties`, `buyers`, `sellers`, or `clients`.
   * `buyers`: Lists all buyers in the database.
   * `sellers`: Lists all sellers in the database.

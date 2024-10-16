@@ -7,7 +7,7 @@
 
 We are a team based in the [School of Computing, National University of Singapore](http://www.comp.nus.edu.sg).
 
-You can reach us at our emails: 
+You can reach us at our emails:
 
 - `E1113234@u.nus.edu.sg`
 
@@ -65,7 +65,7 @@ You can reach us at our emails:
 [[portfolio](https://jolynn-wee.vercel.app)]
 
 * Role: Integration
-* Responsibilities: In charge of versioning of the code, maintaining the code repository, integrating various parts of 
+* Responsibilities: In charge of versioning of the code, maintaining the code repository, integrating various parts of
 * the software to create a whole. Handle delete property commands and documentation.
 
 ### Johnny Doe
