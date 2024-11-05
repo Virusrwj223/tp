@@ -10,10 +10,7 @@
         "anthony-hermanto": "Anthony Hermanto",
         "yong-khee-hou": "Yong Khee Hou",
         "hrishiraj-mandal": "Hrishiraj Mandal",
-        "wee-zhuo-lin": "Wee Zhuo Lin",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "wee-zhuo-lin": "Wee Zhuo Lin"
       },
       "headingKeywords": {}
     },
@@ -42,7 +39,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "clientgrid-developer-guide": "ClientGrid Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -53,7 +50,6 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "add-buyer-feature": "Add Buyer Feature",
         "proposed-note-taking-feature": "[Proposed] Note-taking feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -64,7 +60,6 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -115,8 +110,8 @@
         "viewing-help-help": "Viewing help : help",
         "listing-address-book-records-list": "Listing address book records: list",
         "adding-a-buyer-addbuyer": "Adding a buyer : addbuyer",
-        "filtering-clients-filterclient": "Filtering clients : filterclient",
         "adding-a-seller-addseller": "Adding a seller : addseller",
+        "filtering-clients-filterclient": "Filtering clients : filterclient",
         "deleting-a-buyer-deletebuyer": "Deleting a buyer : deletebuyer",
         "deleting-a-seller-deleteseller": "Deleting a seller : deleteseller",
         "adding-a-property-addproperty": "Adding a property : addproperty",
